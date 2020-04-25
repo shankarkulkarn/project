@@ -27,3 +27,5 @@ insert into walletTrans_tbl values(transaction_seq.nextval,'withdraw',TO_date('2
 insert into walletTrans_tbl values(transaction_seq.nextval,'withdraw',TO_date('2019-10-12','YYYY-MM-DD'),500,19500,2003);
 
 insert into walletTrans_tbl values(transaction_seq.nextval,'deposit',TO_date('2019-12-12','YYYY-MM-DD'),1000,26000,2004);
+
+insert into walletTrans_tbl values(transaction_seq.nextval,'withdraw',TO_date('2019-09-22','YYYY-MM-DD'),500,14000,2002);
