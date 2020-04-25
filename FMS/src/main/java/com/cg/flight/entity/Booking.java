@@ -13,8 +13,6 @@ import org.hibernate.annotations.DynamicInsert;
 import org.hibernate.annotations.DynamicUpdate;
 
 @Entity
-@DynamicInsert
-@DynamicUpdate
 @Table(name="flightbooking_tbl")
 public class Booking {
 	@Id
