@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.cg</groupId>
-	<artifactId>OnlineWallet1</artifactId>
+	<artifactId>Banking</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>OnlineWallet-1</name>
+	<name>Banking</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
